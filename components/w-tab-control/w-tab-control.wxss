@@ -1,0 +1,16 @@
+/* components/w-tab-contorl/w-tab-contorl.wxss */
+.tab-control {
+  display: flex;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.tab-control-item {
+  flex: 1;
+  text-align: center;
+}
+.active {
+  color: #ff5777;
+  border-bottom: 6rpx solid #ff5777;
+}
+
+
